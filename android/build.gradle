@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace = "com.device.imei"
+    namespace = "com.vai.device_imei"
     compileSdkVersion 31
 
     compileOptions {
